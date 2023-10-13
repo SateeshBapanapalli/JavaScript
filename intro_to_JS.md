@@ -1,8 +1,8 @@
 # What is Programming?
 
-Computers do not understnds what humans speak. 
-The Computer understands only Binary language i.e. in the form of 0’s &1’s. 
-To communicate with computers, we need a program.
+Computers do not understnds what humans speak.__
+The Computer understands only Binary language i.e. in the form of 0’s &1’s.__
+To communicate with computers, we need a program.__
  
 
 Program:
