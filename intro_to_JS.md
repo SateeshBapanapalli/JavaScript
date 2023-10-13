@@ -37,7 +37,7 @@ There are also high level languages such as JavaScript, that needs to be interpr
 # PROGRAMMING WITH JAVASCRIPT:
 
 So-much of what you take for granted in your everyday online life, like using:
-A Search Engine (browser)
+A Search Engine (browser),
 Online Shopping, and
 Using social media is made possible by JavaScript. 
 
