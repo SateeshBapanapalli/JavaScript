@@ -1,13 +1,17 @@
 # What is Programming?
 
-Computers do not understnds what humans speak.__
-The Computer understands only Binary language i.e. in the form of 0’s &1’s.__
-To communicate with computers, we need a program.__
+Computers do not understnds what humans speak.
+
+The Computer understands only Binary language i.e. in the form of 0’s &1’s.
+
+To communicate with computers, we need a program.
+
  
 
 Program:
 
 A set of instructions given to a computer by the user to perform certain tasks.
+
 To communicate with the Computer the humans required a PROGRAMMING LANGUAGE.
 
 A series of instructions that tell a computer what to do in specific circumstances.
