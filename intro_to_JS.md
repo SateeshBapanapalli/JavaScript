@@ -99,3 +99,5 @@ It uses the browser to run the code.
 More modern browsers use a technology known as Just-In-Time (JIT) compilation, which compiles JavaScript to executable bytecode just as it is about to run.
 JavaScript has no compilation steps but JS code is compiled by a JIT (Just in time) compiler which converts the JS code to byte code.
 JavaScript is using an interpreter to convert the byte code to machine code hence it is an interpreted language.
+
+Credits: All the online resources and blogs. 
