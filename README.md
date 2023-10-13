@@ -3,6 +3,7 @@ In this repository, I am goint to code about JavaScript concepts...
 
 
 # intro_to_JS
+Go and visit the intro_to_JS.md file in this repo. In this, we will cover the following:
 * What is Programming
 * What is Programming language
 * How we can use a Programming language in our local system?
